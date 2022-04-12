@@ -1,0 +1,3 @@
+this repoistory includes the following files:
+1-clustered_topics the result file of assigning the documents.
+2- topic_description the four topics with the top 50 words
