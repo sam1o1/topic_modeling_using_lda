@@ -48,7 +48,7 @@
 *	Model training and choosing the optimal number of topics. I used topic coherence to evaluate the performance of the LDA following the same technique in this paper. Then, A CSV file is loaded including the assignment of each document to the top three topics it may belong to using a probability score to order them.
 
 *	Results Loading ( Graphs, CSVs, and the final model )
-*	
+	
 <a name="results"></a>
  ## Results and Findings:
  
